@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPitTest</string>
+    <string name="add_point">Add New Point</string>
+    <string name="clear">clear_points</string>
+</resources>
